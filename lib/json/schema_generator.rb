@@ -1,6 +1,5 @@
 require 'json/schema_generator/statement_group'
 require 'json/schema_generator/brute_force_required_search'
-
 module JSON
   class SchemaGenerator
     DRAFT3 = 'draft-03'
